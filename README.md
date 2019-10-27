@@ -1,2 +1,2 @@
 # WarCraft
-Project of Practice of Programming in C/C++
+WarCraft Project of Practice of Programming in C/C++
